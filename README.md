@@ -20,3 +20,4 @@ or a student_teacher if it does both things
 
 * Understand how models should interact
 * Jenkins setup
+* Sonar qube
